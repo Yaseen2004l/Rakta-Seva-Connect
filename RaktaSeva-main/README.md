@@ -27,5 +27,5 @@ An emergency blood donor connection Android app built with Kotlin, Jetpack Compo
 - OkHttp + Gson
 
 ## Built By
-Mohit Pandit — 1VI22CS063
+Yaseen Mubarak Latakar — 1VK22CS063
 MindMatrix - Android App Development using Gen AI — Android Internship
